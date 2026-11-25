@@ -72,8 +72,8 @@ All five scenarios are evaluated on the **same 80/20 train–test split** (`RAND
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/andreasreynard/](https://github.com/andreasreynard/)<your-repo-name>.git
-   cd <your-repo-name>
+   git clone https://github.com/andreasreynard/Machine-Learning-Portfolio.git
+   cd Machine-Learning-Portfolio
    ```
 2. **Create a virtual environment and install dependencies**
    ```bash
